@@ -45,11 +45,11 @@ UCF101数据集下载地址：https://www.crcv.ucf.edu/data/UCF101/UCF101.rar<br
 ---
 
 更详细的过程可以查看：<br>
-CSDN:<br>
+CSDN:https://blog.csdn.net/weixin_47349091/article/details/113484959 <br>
 
-知乎：<br>
+知乎：https://zhuanlan.zhihu.com/p/348402763 <br>
 
-本次实验是借鉴某位大神的github：https://github.com/jfzhang95/pytorch-video-recognition，在此表示感谢<br>
+本次实验是借鉴某位大神的github：https://github.com/jfzhang95/pytorch-video-recognition   在此表示感谢 <br>
 
 以上均为原创，请勿转载，如需转载，请注明出处<br>
 
